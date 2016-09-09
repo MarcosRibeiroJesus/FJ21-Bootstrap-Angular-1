@@ -1,0 +1,8 @@
+br\com\caelum\agenda\dao\DAOException.class
+br\com\caelum\agenda\modelo\Contato.class
+br\com\caelum\agenda\jdbc\ConnectionFactory.class
+br\com\caelum\agenda\dao\ContatoDao.class
+br\com\caelum\agenda\servlet\OiMundo.class
+br\com\caelum\agenda\servlet\AdicionaContatoServlet.class
+br\com\caelum\agenda\servlet\ServletMapeada.class
+br\com\caelum\agenda\servlet\Contador.class
